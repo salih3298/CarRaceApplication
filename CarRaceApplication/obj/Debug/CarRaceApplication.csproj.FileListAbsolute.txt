@@ -1,0 +1,14 @@
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\bin\Debug\CarRaceApplication.exe.config
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\bin\Debug\CarRaceApplication.exe
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\bin\Debug\CarRaceApplication.pdb
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.Form1.resources
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.Properties.Resources.resources
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.exe
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.pdb
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\bin\Debug\CarRaceApplication.exe.manifest
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\bin\Debug\CarRaceApplication.application
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.exe.manifest
+C:\Users\salih\source\repos\CarRaceApplication\CarRaceApplication\obj\Debug\CarRaceApplication.application
